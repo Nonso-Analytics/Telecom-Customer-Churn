@@ -4,7 +4,7 @@ Domain: Telecommunications
 ![image](https://github.com/user-attachments/assets/3566b6a3-a2ea-4bff-a728-5a455559723a)
 
 
-## PROJECT BRIEF
+## PROBLEM STATEMENT
 A telecommunications company providing phone and internet services in California is facing a growing challenge with customer churn. Despite efforts to retain subscribers, the company is experiencing a steady loss of customers, impacting revenue and long-term growth. Without a clear understanding of why customers leave, the company struggles to implement effective retention strategies. <br>
 Recognizing these challenges, the company has reached out to you, a Data Analytics Consultant, to provide insights and solutions. Your task is to conduct an in-depth analysis of churn data, identify the underlying factors driving customer attrition, and develop actionable strategies to improve retention. By analyzing customer acquisition trends, profiling churn behaviors, and detecting key risk indicators, you will help the company enhance customer loyalty, reduce churn, and sustain long-term growth.<br>
 <br>
